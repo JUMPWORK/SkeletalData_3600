@@ -2,6 +2,9 @@
 
 
 
+<div align="center">
+  <img src="Jumpwork_logo.jpg" alt="Jumpwork Logo" width="50%"/>
+</div>
 
 <iframe width="560" height="315" src=".demo_video.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
