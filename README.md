@@ -1,11 +1,6 @@
 # SkeletalData_3600
 3600 frames of point cloud skeleton data
 
-<<<<<<< HEAD
-=======
-# Instructions for Data Usage
-
->>>>>>> origin/main
 ###   Website：https://drive.google.com/drive/folders/1YxQroqR_O4J7gCLLJuETdVxpurHJUgd2?usp=drive_link
 
 The first two dimensions of each data point represent the frame count and camera ID.
