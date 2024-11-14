@@ -13,4 +13,14 @@
 
 - `ske3d.h5`(3600,5,32,4):3D Skeleton Data.Similar to the 2D skeleton points, only the last dimension differs, representing xyz coordinates and a validity value.
 
-  ### Point clouds can be obtained through `depth.h5` and `external_param.h5`. Please refer to the content in `demo.py`.
+### Point clouds can be obtained through `depth.h5` and `external_param.h5`. Please refer to the content in `demo.py`.
+
+##### Reading data from an h5 file:
+
+```
+import h5py
+data = h5py.File("path/to/ske3d.h5","r")["data"]
+```
+
+
+
