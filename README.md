@@ -6,6 +6,7 @@
   <img src="./起源跃动JUMPWORKAI-logo.png" alt="Jumpwork Logo" width="50%"/>
 </div>
 
+<iframe width="560" height="315" src=".demo_video.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [![Demo Video](./index.jpg)](demo_video.mp4)
