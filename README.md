@@ -5,6 +5,7 @@
 <div align="center">
   <img src="Jumpwork.png" alt="Jumpwork Logo" width="50%"/>
 </div>
+
 <div align="center">
   <img src="Jumpwork_demo.gif" alt="Jumpwork Logo" />
 </div>
