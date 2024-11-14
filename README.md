@@ -1,9 +1,11 @@
 # JUMPWORK Multi-Camera 4D Human Poindcloud Estimation Dataset.
 
-[DataLink](https://drive.google.com/drive/folders/1YxQroqR_O4J7gCLLJuETdVxpurHJUgd2?usp=drive_link)
 
-![项目截图](./起源跃动JUMPWORKAI-logo.png)
-<img src="./起源跃动JUMPWORKAI-logo.png" alt=" Logo" width="50%"/>
+
+<div align="center">
+  <img src="./起源跃动JUMPWORKAI-logo.png" alt="Jumpwork Logo" width="50%"/>
+</div>
+
 
 
 [![Demo Video](./index.jpg)](demo_video.mp4)
