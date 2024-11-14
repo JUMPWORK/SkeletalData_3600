@@ -6,10 +6,8 @@
   <img src="Jumpwork.png" alt="Jumpwork Logo" width="50%"/>
 </div>
 
-<iframe width="560" height="315" src=".demo_video.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Jumpwork_demo](./Jumpwork_demo.gif)
 
-
-[![Demo Video](./index.jpg)](demo_video.mp4)
 
 - `JUMPWORK_Human4D_depth.h5`(3600,5,512*512):Depth Data.Represents 3600 frames, five cameras, and depth information.
 
