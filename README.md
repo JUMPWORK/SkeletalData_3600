@@ -2,9 +2,9 @@
 
 [DataLink](https://drive.google.com/drive/folders/1YxQroqR_O4J7gCLLJuETdVxpurHJUgd2?usp=drive_link)
 
-``````html
-<video src="https://github.com/JUMPWORK/SkeletalData_3600/blob/main/demo_video.mp4" />
-``````
+![项目截图](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+[![GitHub Guide Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)][SkeletalData_3600/demo_video.mp4 at main · JUMPWORK/SkeletalData_3600](https://github.com/JUMPWORK/SkeletalData_3600/blob/main/demo_video.mp4)
 
 - `JUMPWORK_Human4D_depth.h5`(3600,5,512*512):Depth Data.Represents 3600 frames, five cameras, and depth information.
 
