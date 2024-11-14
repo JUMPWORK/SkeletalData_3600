@@ -2,9 +2,9 @@
 
 [DataLink](https://drive.google.com/drive/folders/1YxQroqR_O4J7gCLLJuETdVxpurHJUgd2?usp=drive_link)
 
-[![项目截图](./起源跃动JUMPWORKAI-logo.png)]
+![项目截图](./起源跃动JUMPWORKAI-logo.png)
 
-[![GitHub Guide Video](./index.jpg)][SkeletalData_3600/demo_video.mp4 at main · JUMPWORK/SkeletalData_3600](https://github.com/JUMPWORK/SkeletalData_3600/blob/main/demo_video.mp4)
+[![Demo Video](./index.jpg)](demo_video.mp4)
 
 - `JUMPWORK_Human4D_depth.h5`(3600,5,512*512):Depth Data.Represents 3600 frames, five cameras, and depth information.
 
@@ -24,6 +24,8 @@
 import h5py
 data = h5py.File("path/to/ske3d.h5","r")["data"]
 ```
+
+If you need additional datasets for academic research, please contact harland@jumpworker.com and include your institution's name and your identification.
 
 
 
