@@ -6,10 +6,9 @@
   <img src="Jumpwork.png" alt="Jumpwork Logo" width="50%"/>
 </div>
 <div align="center">
-  <img src="Jumpwork_demo.gif" alt="Jumpwork Logo" width="50%"/>
+  <img src="Jumpwork_demo.gif" alt="Jumpwork Logo" />
 </div>
 
-![Jumpwork_demo](Jumpwork_demo.gif)
 
 
 - `JUMPWORK_Human4D_depth.h5`(3600,5,512*512):Depth Data.Represents 3600 frames, five cameras, and depth information.
